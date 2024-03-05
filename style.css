@@ -1,6 +1,6 @@
 nav {
   color: #E3E2C3;
-  position: fixed;
+  position: static;
   top: 0
 }
 
