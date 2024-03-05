@@ -1,3 +1,9 @@
+nav {
+  color: #E3E2C3;
+  position: fixed;
+  top: 0
+}
+
 body {
   background-color: #E3C3C5;
 }
