@@ -1,7 +1,8 @@
 nav {
   color: #E3E2C3;
-  position: static;
-  top: 0
+  position: fixed;
+  top: 0;
+  float: right;
 }
 
 body {
