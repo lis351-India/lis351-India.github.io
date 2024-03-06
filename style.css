@@ -1,9 +1,8 @@
 nav {
   color: #E3E2C3;
-  position: fixed;
-  top: 0;
-  float: right;
-  width: 100%
+  position: absolute;
+  top: 10px;
+  right: 10px;
 }
 
 body {
