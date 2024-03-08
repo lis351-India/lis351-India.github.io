@@ -1,5 +1,8 @@
+{
+  text-align: center;
+}
+
 nav {
-  color: #E3E2C3;
   position: absolute;
   top: 10px;
   right: 10px;
@@ -8,24 +11,96 @@ nav {
 body {
   background-color: #E3C3C5;
 }
-  
+
 h1 {
   text-align: center;
   font-family: "verdana";
-  color: #E3E2C3;
-  
-  
-  
+  color: #632C30;
+  }
+
+  h2 {
+    text-align: center;
+    font-family: "verdana";
+    color: #632C30;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 10px solid #E3E2C3;
+  }
+
+  .left{
+    border: 10px solid #E3E2C3;
+  }
+
+  .title {
+    font-size: 40px;
+  }
+
+  .description {
+    width: 600px;
+    position: relative;
+    top: -500px;
+    right: -500px;
+    font-size: 20px;
+  }
+
+  .name {
+    width: 600px;
+    position: relative;
+    top: -500px;
+    right: -500px;
+    font-size: 35px;
+  }
+
+  .interests{
+    width: 600px;
+    position: relative;
+    top: -500px;
+    right: -500px;
+    font-size: 35px;
+
+  }
+
+  .list{
+    width: 600px;
+    position: relative;
+    top: -500px;
+    right: -500px;
+    font-size: 20px;
+  }
+
+  .neighborhoods{
+    font-size: 40px;
+  }
+
+  .pasadena{
+    font-size: 35px;
+  }
+
+  .highland_park{
+    font-size: 35px;
+  }
+
+  .arts_district{
+    font-size: 35px;
+  }
+
+.cuisine{
+  font-size: 40px;
 }
-h2 {
-  text-align: center;
-  font-family: "verdana";
-  color: #E3E2C3;
+
+.italian{
+  font-size: 35px;
 }
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+
+.japanese{
+  font-size: 35px;
 }
-  
+
+.american{
+  font-size: 35px;
+}
